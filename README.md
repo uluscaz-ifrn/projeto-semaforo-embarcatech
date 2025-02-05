@@ -1,4 +1,4 @@
-# 🚦 Projeto: Sistema de Controle de Sinalização com Display OLED e LED RGB
+# 🚦 Projeto: Sistema de Controle de Sinalização para Pedestres com Display OLED e LED RGB
 
 Este projeto implementa um **sistema de controle de sinalização** usando a Raspberry Pi Pico. O sistema utiliza um **display OLED SSD1306** para exibir mensagens de aviso e **LED RGB** para sinalização visual. Um botão permite interação com o sistema para simular a transição dos sinais de **fechado**, **atenção** e **aberto**.
 
