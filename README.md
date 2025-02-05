@@ -11,7 +11,7 @@ Este projeto implementa um **sistema de controle de sinalização** usando a Ras
 - **Interação com Botão:** O botão inicia a transição dos estados de sinalização.
 
 ## 🖥️ Hardware Utilizado
-- **Raspberry Pi Pico**
+- **Raspberry Pi Pico integrado a placa Bitdoglab**
 - **Display OLED SSD1306 (I2C)**
 - **LED RGB (3 pinos separados: vermelho, verde e azul)**
 - **Botão de entrada para interação**
